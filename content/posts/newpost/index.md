@@ -8,3 +8,5 @@ title = "New Post"
 Something
 ---
 Inside
+[] Here we go
+[] One more thing to go
